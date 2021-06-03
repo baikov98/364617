@@ -1,0 +1,136 @@
+﻿
+.gasWorkModel .leftSideGraph {
+    background: white;
+}
+
+.gasWorkModel .italicText {
+    font-style: italic!important;
+}
+
+.gasWorkModel sup  {
+    font-size: 14px!important;
+    font-style: normal!important;
+    top: -12px;
+    left: 3px;
+
+}
+
+.gasWorkModel .graphText {
+    /* font-style: italic!important; */
+    font-size: 19px!important;
+}
+
+.gasWorkModel .graphLabelText {
+    font-size: 24px!important;
+}
+
+.gasWorkModel .greekText {
+    font-style: normal!important;
+}
+
+.gasWorkModel .gasWorkLabel .label-inner {
+    margin-left: 2px;
+}
+
+.gasWorkModel .internalEnergyLabel .label-inner {
+    margin-left: -13px;
+}
+
+.gasWorkModel .leftSideGraph text {
+    font-size: 14px;
+} 
+
+.gasWorkModel .curveType .pane-content {
+    margin: 2px 0 0 5px;
+}
+
+.gasWorkModel .curveParams .label-view {
+    padding: 0px 5px;
+    padding-top: 10px;
+    padding-bottom: 11px;
+}
+
+.gasWorkModel .curveParams .row-view {
+    padding: 0px 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.gasWorkModel .curveParams .row-view .label-view {
+    padding: 0px;
+}
+
+.gasWorkModel .curveParams .pane-content {
+    overflow: hidden;
+    /* padding: 6px 2px!important; */
+}
+
+.gasWorkModel .curveParams .pane-content .single-layout {
+    margin-bottom: 10px!important;
+}
+
+.gasWorkModel .systemParams .pane-content {
+    margin-left: 0px;
+    overflow: hidden;
+}
+
+.gasWorkModel .systemParams .label-view {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.gasWorkModel .systemParams .pressureLabel {
+    position: relative;
+    top: -2px;
+}
+
+
+.gasWorkModel .gasAtomicity .pane-content {
+    overflow: hidden;
+}
+
+.gasWorkModel .gasAtomicity .pane-content {
+    margin: 3px 0 0 3px;
+}
+
+.gasWorkModel .gasAtomicity .base-radiobutton {
+    margin: 6px 0px;
+}
+
+
+/* стили для дроби */
+.gasWorkModel .fraction {
+    display: inline-block;
+    text-align: center;    
+    position: relative;
+    top: 10px;
+}
+
+/* стили для параметра 'c' параболы */
+
+.gasWorkModel .paramCParabola {
+    position: relative;
+    top: -40px;
+    left: 90px
+}
+/* стили для параметра 'b' экспоненты */
+.gasWorkModel .paramBExponent {
+    position: relative;
+    top: -40px;
+    left: 90px
+}
+
+.gasWorkModel .fractionLabel {
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
+.gasWorkModel .fraction, .top, .bottom {
+    padding: 0 5px;    
+}
+
+.gasWorkModel .bottom{
+    border-top: 1px solid #000;
+    display: block;
+}
+
